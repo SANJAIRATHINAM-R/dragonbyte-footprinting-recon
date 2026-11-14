@@ -20,7 +20,7 @@ Pure Python 3, **no external packages** – works on Kali Linux, Windows, macOS.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/dragonbyte-footprinting-recon.git
+git clone https://github.com/SANJAIRATHINAM-R/dragonbyte-footprinting-recon.git
 cd dragonbyte-footprinting-recon
 
 python3 dragonbyte_recon.py yourdomain.com --yes
